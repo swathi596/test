@@ -1,1 +1,4 @@
 
+[submodule "marvell_day1"]
+	path = marvell_day1
+	url = https://github.com/yadavshani67/marvell_day1.git
