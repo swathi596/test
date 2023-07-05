@@ -1,3 +1,6 @@
 [submodule "final_dash"]
 	path = final_dash
 	url = https://github.com/swathi596/test.git
+[submodule "url_short"]
+	path = url_short
+	url = https://github.com/yadavshani67/url_short.git
